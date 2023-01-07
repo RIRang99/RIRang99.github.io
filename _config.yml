@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
   deploy:
   type: 'git'
-  repo: git@github.com:RIRang99/RIRang99.github.io.git   # 刚才复制的地址
-  branch: master  # 改为master     注意  冒号:后面有一个空格!
+  repo: https://github.com/RIRang99/RIRang99.github.io.git   # 刚才复制的地址
+  branch: master
