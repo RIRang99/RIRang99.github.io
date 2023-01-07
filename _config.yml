@@ -101,7 +101,7 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-  deploy:
+deploy:
   type: 'git'
   repo: https://github.com/RIRang99/RIRang99.github.io.git   # 刚才复制的地址
   branch: master
